@@ -1,8 +1,77 @@
 ﻿@page "/"
+@using Client.Models
+@using Client.Components
+@using Client.Services
 
-<PageTitle>Kamil Szurgot</PageTitle>
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+@inject RecipeService RecipeService
 
-<div class="text-center">
-    <h1>Kamil Szurgot</h1>
-    <h4 class="text-danger">Nr albumu: 109249</h4>
-</div>
+<PageTitle>Przepisy</PageTitle>
+
+@if (recipies == null)
+{
+    <Spinner />
+}
+else
+{
+    <section >
+        <div class="container-recipe">
+            <div class="content">
+                <div class="container">
+                    <h1>Przepisy</h1>
+                    <div class="alert alert-danger my-3" role="alert">
+                        Uwaga! Strona bazuje na treściach zaczerpniętych z <a href="https://www.przepisy.pl/" target="_blank">serwisu</a> i powstała w celach edukacyjnych.
+                    </div>
+
+                    <div class="row">
+
+                        @foreach (var recipe in recipies)
+                        {
+                            <div class="col-sm-12 col-md-4">
+                                <div class="card">
+                                    <a class="img-card" @onclick="() => ShowRecipe(recipe)">
+                                        <img src="@recipe.ThumbnailImage" />
+                                    </a>
+                                    <div class="card-content">
+                                        <h4 class="card-title">
+                                            <a @onclick="() => ShowRecipe(recipe)">
+                                                @recipe.Name
+                                            </a>
+                                        </h4>
+                                        <p>
+                                            @recipe.Description
+                                        </p>
+                                    </div>
+                                    <div class="card-read-more">
+                                        <a @onclick="() => ShowRecipe(recipe)" class="btn
+btn-block">
+                                            Czytaj więcej
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+}
+
+@code {
+    private Recipe[]? recipies;
+
+    protected override async Task OnInitializedAsync()
+    {
+        recipies = await Http.GetFromJsonAsync<Recipe[]>("sample-data/recipies.json");
+
+    }
+
+    void ShowRecipe(Recipe recipe)
+    {
+        RecipeService.currentRecipe = recipe;
+        NavigationManager.NavigateTo("/ShowRecipe");
+    }
+}

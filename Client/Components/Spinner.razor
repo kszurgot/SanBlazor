@@ -1,0 +1,13 @@
+﻿<div style="width: @Size" class="d-flex justify-content-center align-items-center">
+    <div class="spinner-border" role="status">
+        <span class="visually-hidden">Loading...</span>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string Size { get; set; }
+
+    [Parameter]
+    public string Border { get; set; }
+}

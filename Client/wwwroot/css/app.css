@@ -4,6 +4,13 @@ html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+.main-loader {
+    width: 7rem;
+    height: 7rem;
+    border: 0.4em solid currentColor;
+    border-right-color: transparent;
+}
+
 h1:focus {
     outline: none;
 }

@@ -1,0 +1,334 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Makaron w sosie pieczarkowym",
+    "description": "Szacowana cena przygotowania dania: do 20 zł. Ceny zostały oszacowane na podstawie orientacyjnych...",
+    "publishedAt": "2022-05-07",
+    "orgLink": "https://www.przepisy.pl/przepis/makaron-w-sosie-pieczarkowym",
+    "image": "https://s3.przepisy.pl/przepisy3ii/img/variants/1200x0/cheesy-chicken-and-pasta_a9727.jpg",
+    "thumbnailImage": "https://s3.przepisy.pl/przepisy3ii/img/variants/500x0/cheesy-chicken-and-pasta_a9727.jpg",
+    "steps": [
+      {
+        "position": 1,
+        "description": "Posiekaj cebulę w kostkę. Pokrój kurczaka w paski, a grzyby w plasterki."
+      },
+      {
+        "position": 2,
+        "description": "Ugotuj makaron wg wskazówek na opakowaniu. Wymieszaj Fix przyprawe do kurczaka z mlekiem i musztardą."
+      },
+      {
+        "position": 3,
+        "description": "Usmaż grzyby na 1 łyżce oleju. Odłóż na talerz, a następnie usmaż osobno cebulę. Dodaj kurczaka i przesmaż na złoto. Przełóż grzyby na patelnię."
+      },
+      {
+        "position": 4,
+        "description": "Całość połącz z sosem. Gotuj przez 5 min. aż lekko zgęstnieje."
+      },
+      {
+        "position": 5,
+        "description": "Podawaj makaron posypany posiekaną natką pietruszki."
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "filety z piersi kurczaka",
+        "quantity": "500 gramów"
+      },
+      {
+        "name": "przyprawa do kurczaka w sosie serowym",
+        "quantity": "1 opakowanie"
+      },
+      {
+        "name": "makaron tagliatelle",
+        "quantity": "250 gramów"
+      },
+      {
+        "name": "pieczarki",
+        "quantity": "500 gramów"
+      },
+      {
+        "name": "mleko",
+        "quantity": "150 mililitrów"
+      },
+      {
+        "name": "cebula",
+        "quantity": "1 sztuka"
+      },
+      {
+        "name": "musztarda",
+        "quantity": "2 łyżki"
+      },
+      {
+        "name": "świeża natka pietruszki",
+        "quantity": "2 łyżki"
+      },
+      {
+        "name": "olej rzepakowy",
+        "quantity": "1 łyżka"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Zapiekanka makaronowa \"PYCHOTKA\"",
+    "description": "Zapiekanka „Pychotka” – ta nazwa mówi sama za siebie. Jeśli jednak nadal nie jesteś pewien, czego...",
+    "publishedAt": "2022-05-06",
+    "orgLink": "https://www.przepisy.pl/przepis/zapiekanka-makaronowa-pychotka",
+    "image": "https://s3.przepisy.pl/przepisy3ii/img/variants/1200x0/zapiekanka-makaronowa-pychotka.jpg",
+    "thumbnailImage": "https://s3.przepisy.pl/przepisy3ii/img/variants/500x0/zapiekanka-makaronowa-pychotka.jpg",
+    "steps": [
+      {
+        "position": 1,
+        "description": "Cebulę pokrój w piórka, czosnek przeciśnij przez praskę. Podsmaż je na oleju. "
+      },
+      {
+        "position": 2,
+        "description": "Ugotuj makaron na sposób al dente."
+      },
+      {
+        "position": 3,
+        "description": "Warzywa pokrój w paski i wraz z kurczakiem dodaj do całości. Duś około 15 minut. Następnie podlej szklanką wody i dodaj kostkę rosołu z kury oraz przecier pomidorowy."
+      },
+      {
+        "position": 4,
+        "description": "Makaron wyłóż do naczynia żaroodpornego, zalej sosem i posyp startym serem. Włóż do piekarnika nagrzanego do 180 stopni na 20 minut. Następnie podawaj."
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "makaron świderki",
+        "quantity": "100 gramów"
+      },
+      {
+        "name": "rosół z kury w kostkach",
+        "quantity": "1 sztuka"
+      },
+      {
+        "name": "filet z kurczaka",
+        "quantity": "1 sztuka"
+      },
+      {
+        "name": "cebula",
+        "quantity": "1 sztuka"
+      },
+      {
+        "name": "papryka",
+        "quantity": "1 sztuka"
+      },
+      {
+        "name": "pomidor",
+        "quantity": "1 sztuka"
+      },
+      {
+        "name": "przecier pomidorowy",
+        "quantity": "2 łyżki"
+      },
+      {
+        "name": "ząbek czosnku",
+        "quantity": "1 sztuka"
+      },
+      {
+        "name": "mozarella light",
+        "quantity": "200 gramów"
+      },
+      {
+        "name": "olej",
+        "quantity": "4 łyżki"
+      },
+      {
+        "name": "woda",
+        "quantity": "1 szklanka"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sos rozmarynowy",
+    "description": "Zapiekanka „Pychotka” – ta nazwa mówi sama za siebie. Jeśli jednak nadal nie jesteś pewien, czego...",
+    "publishedAt": "2022-02-21",
+    "orgLink": "https://www.przepisy.pl/przepis/sos-rozmarynowy",
+    "image": "https://s3.przepisy.pl/przepisy3ii/img/variants/1200x0/sos-rozmarynowy-1.jpg",
+    "thumbnailImage": "https://s3.przepisy.pl/przepisy3ii/img/variants/500x0/sos-rozmarynowy-1.jpg",
+    "steps": [
+      {
+        "position": 1,
+        "description": "W garnku lub na patelni, na której wcześniej przygotowywane było mięso, na rozgrzanym tłuszczu podsmaż posiekaną w drobną kostkę szalotkę."
+      },
+      {
+        "position": 2,
+        "description": "Dodaj posiekane zioła, wlej 200 ml ciepłej wody. Patelnię zestaw z ognia, dodaj Sos do pieczeni ciemny, dzięki któremu sos będzie gęsty i dobrze doprawiony. Całość dokładnie wymieszaj. Wszystko razem gotuj 2 minuty."
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "olej",
+        "quantity": "50 mililitrów"
+      },
+      {
+        "name": "cebula mała ",
+        "quantity": "1 sztuka"
+      },
+      {
+        "name": "rozmaryn - saszetka",
+        "quantity": "1 łyżka"
+      },
+      {
+        "name": "sos do pieczeni ciemny -saszetka",
+        "quantity": "1 sztuka"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Drink Zielono mi!",
+    "description": "Drink z herbatą? Dlaczego nie! Różne gatunki herbat, mają rozmaite...",
+    "publishedAt": "2022-01-01",
+    "orgLink": "https://www.przepisy.pl/przepis/drink-zielono-mi",
+    "image": "https://s3.przepisy.pl/przepisy3ii/img/variants/1200x0/dsc_3286a811960.jpg",
+    "thumbnailImage": "https://s3.przepisy.pl/przepisy3ii/img/variants/500x0/dsc_3286a811960.jpg",
+    "steps": [
+      {
+        "position": 1,
+        "description": "Trzy piramidki herbaty Lipton Gunpowder Green zalej 600 ml gotującej się wody. Napar przykryj spodkiem odstaw na bok, aby dobrze się zaparzył."
+      },
+      {
+        "position": 2,
+        "description": "Z limonki otrzyj skórkę i wyciśnij sok. Skórkę połącz z 2 łyżkami cukru. Przygotuj szklanki w których zamierzasz podać drinki. W tym celu na spodek wylej trochę syropu cukrowego zanurz w nim krawędź szklanki a następnie szklankę zanurz w cukrze pomieszanym ze skórką limonki."
+      },
+      {
+        "position": 3,
+        "description": "W kielichu miksera połącz ze sobą dwa obrane kiwi, sok z limonki, gazowany napój cytrynowy, pozostały syrop cukrowy oraz napar z herbaty. Wszystko razem dokładnie zmiksuj. Powstały drink nalej do szklanek wypełnionych kostkami lodu."
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Herbata Zielona Lipton Dynamic Green Gunpowder",
+        "quantity": "3 saszetki"
+      },
+      {
+        "name": "gazowany napój cytrynowy",
+        "quantity": "200 mililitrów"
+      },
+      {
+        "name": "kiwi",
+        "quantity": "2 sztuki"
+      },
+      {
+        "name": "limonka",
+        "quantity": "1 sztuka"
+      },
+      {
+        "name": "syrop cukrowy",
+        "quantity": "100 mililitrów"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Omlet z kurczakiem i brokułami",
+    "description": "Omlet to szczególna forma podania jajka, miła odmiana dla jajecznicy czy jajka...",
+    "publishedAt": "2021-11-15",
+    "orgLink": "https://www.przepisy.pl/przepis/omlet-z-kurczakiem-i-brokulami",
+    "image": "https://s3.przepisy.pl/przepisy3ii/img/variants/1200x0/omlet-z-kurczakiem-i-brokulami592132.jpg",
+    "thumbnailImage": "https://s3.przepisy.pl/przepisy3ii/img/variants/500x0/omlet-z-kurczakiem-i-brokulami592132.jpg",
+    "steps": [
+      {
+        "position": 1,
+        "description": "Rozbij jaja i rozmieszaj je na jednolitą masę."
+      },
+      {
+        "position": 2,
+        "description": "Umyj kurczaka, pokrój go w paski. Następnie przesmaż na oliwie z oliwek."
+      },
+      {
+        "position": 3,
+        "description": "Podziel brokuł na małe różyczki i ugotuj w osolonej wodzie."
+      },
+      {
+        "position": 4,
+        "description": "Rozpuść masło na rozgrzanej patelni, po czym wlej jaja, dodaj kurczaka oraz brokuły. Należy uważać, aby masło nie przypaliło się, inaczej potrawa będzie niezdrowa i niesmaczna. Smaż całość do momentu, kiedy jaja zaczną się ścinać."
+      },
+      {
+        "position": 5,
+        "description": "Posyp omlet z wierzchu przyprawą do kurczaka i podawaj."
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "filet z kurczaka",
+        "quantity": "1 sztuka"
+      },
+      {
+        "name": "przyprawa do kurczaka - saszetka",
+        "quantity": "1 opakowanie"
+      },
+      {
+        "name": "mały brokuł",
+        "quantity": "1 sztuka"
+      },
+      {
+        "name": "jajka",
+        "quantity": "10 sztuk"
+      },
+      {
+        "name": "oliwa z oliwek"
+      },
+      {
+        "name": "masło"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Puszysta surówka z selera",
+    "description": "Surówki warzywne są bardzo uniwersalne, pasują zarówno do mięs, jak i ryb...",
+    "publishedAt": "2021-09-06",
+    "orgLink": "https://www.przepisy.pl/przepis/puszysta-surowka-z-selera",
+    "image": "https://s3.przepisy.pl/przepisy3ii/img/variants/1200x0/puszysta-surowka-z-selera_c455375.jpg",
+    "thumbnailImage": "https://s3.przepisy.pl/przepisy3ii/img/variants/500x0/puszysta-surowka-z-selera_c455375.jpg",
+    "steps": [
+      {
+        "position": 1,
+        "description": "Umyj selera, obierz i zetrzyj na drobnej tarce."
+      },
+      {
+        "position": 2,
+        "description": "Wymieszaj go z oliwą z oliwek i suchym sosem sałatkowym."
+      },
+      {
+        "position": 3,
+        "description": "Obierz jabłka, zetrzyj na grubej tarce i natychmiast wymieszaj z selerem."
+      },
+      {
+        "position": 4,
+        "description": "Dodaj majonez i płatki migdałów. Podawaj."
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "seler korzeniowy",
+        "quantity": "500 gramów"
+      },
+      {
+        "name": "jabłka",
+        "quantity": "2 sztuki"
+      },
+      {
+        "name": "sos sałatkowy - saszetka",
+        "quantity": "1 opakowanie"
+      },
+      {
+        "name": "płatki migdałów",
+        "quantity": "2 łyżki"
+      },
+      {
+        "name": "majonez",
+        "quantity": "1 łyżka"
+      },
+      {
+        "name": "oliwa z oliwek",
+        "quantity": "2 łyżki"
+      }
+    ]
+  }
+]
